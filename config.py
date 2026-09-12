@@ -84,7 +84,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://n.uguu.se/lEAsLEik.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/1pj8qn.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://i.ibb.co/wFGtd27V/x.jpg"
@@ -99,7 +99,7 @@ YOUTUBE_IMG_URL = "https://i.ibb.co/0VnyqcDm/x.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://i.ibb.co/0VnyqcDm/x.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://i.ibb.co/0VnyqcDm/x.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://i.ibb.co/0VnyqcDm/x.jpg"
-CUSTOM_THUMB_URL = getenv("CUSTOM_THUMB_URL", "https://n.uguu.se/lEAsLEik.jpg")
+CUSTOM_THUMB_URL = getenv("CUSTOM_THUMB_URL", "https://files.catbox.moe/1pj8qn.jpg")
 
 
 def time_to_seconds(time):
