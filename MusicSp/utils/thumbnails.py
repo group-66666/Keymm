@@ -29,7 +29,7 @@ async def gen_thumb(videoid: str):
 
         
         custom_image_url = getattr(
-            config, "CUSTOM_THUMB_URL", "https://n.uguu.se/lEAsLEik.jpg"
+            config, "CUSTOM_THUMB_URL", "https://files.catbox.moe/1pj8qn.jpg"
         )
         image_path = f"cache/thumb{videoid}.png"
 
